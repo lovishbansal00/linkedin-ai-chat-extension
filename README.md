@@ -1,8 +1,8 @@
-# ChatGPT Writer Take-Home Coding Assignment
-
-https://chatgptwriter.ai
+# Linkedin AI Chat Extension
 
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with command: `pnpm create plasmo --with-tailwindcss`.
+
+This is the task given by ChatGptWriter(https://chatgptwriter.ai)
 
 ## Getting Started
 
@@ -23,7 +23,6 @@ For further guidance, [visit our Documentation](https://docs.plasmo.com/).
 ## Demo Video
 
 https://github.com/lovishbansal00/linkedin-ai-chat-extension/assets/112380541/a69e66ad-c68c-4fb4-b38d-b5ca6d2db0b1
-
 
 ## Making production build
 
