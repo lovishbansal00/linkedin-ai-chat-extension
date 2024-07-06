@@ -20,11 +20,9 @@ See how to load the extension: https://docs.plasmo.com/framework/workflows/dev#l
 
 For further guidance, [visit our Documentation](https://docs.plasmo.com/).
 
-## Demo Video?
+## Demo Video
 
-
-[![Watch the video]
-https://github.com/lovishbansal00/linkedin-ai-chat-extension/assets/112380541/5db246ff-3619-4b9b-a8c5-63d08cf21755
+https://github.com/lovishbansal00/linkedin-ai-chat-extension/assets/112380541/a69e66ad-c68c-4fb4-b38d-b5ca6d2db0b1
 
 
 ## Making production build
