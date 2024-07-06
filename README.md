@@ -23,7 +23,9 @@ For further guidance, [visit our Documentation](https://docs.plasmo.com/).
 ## Demo Video?
 
 
-[![Watch the video](assets/media/linkedin%20extension%20demo.mkv)](https://drive.google.com/file/d/1B25NR0lSImpPte64D6TDu9DdT4GVQ0H_/view?usp=drive_link)
+[![Watch the video]
+https://github.com/lovishbansal00/linkedin-ai-chat-extension/assets/112380541/5db246ff-3619-4b9b-a8c5-63d08cf21755
+
 
 ## Making production build
 
