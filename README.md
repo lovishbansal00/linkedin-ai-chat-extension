@@ -22,7 +22,8 @@ For further guidance, [visit our Documentation](https://docs.plasmo.com/).
 
 ## Demo Video?
 
-[![Watch the video](assets/media/linkedin%20extension%20demo.mkv)](assets/media/linkedin%20extension%20demo.mkv)
+
+[![Watch the video](assets/media/linkedin%20extension%20demo.mkv)](https://drive.google.com/file/d/1B25NR0lSImpPte64D6TDu9DdT4GVQ0H_/view?usp=drive_link)
 
 ## Making production build
 
